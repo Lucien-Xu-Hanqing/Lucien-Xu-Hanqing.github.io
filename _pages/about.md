@@ -14,7 +14,7 @@ One of his notable achievements is leading the development of the TS-V5001, a gr
 For more details about this project, you can refer to his article: 
 [IVD＋AI，产品经理的一年总结](https://mp.weixin.qq.com/s/jyoxvqL6hoIBxowxhFmsXA)  
 
-Earlier in his career, Hanqing conducted his undergraduate thesis research in Professor Wen Zhang's lab at the School of Computer Science, Wuhan University, [Professor Zhang] (http://zhangwenlab.cn/indexen.html#student) is now affiliated with Huazhong Agricultural University. Hanqing’s work focused on applying CNN(Convolutional Neural Network) to predict RNA-disease associations, culminating in his thesis titled “Deep Learning Network Based Long-non-coding RNAs (LncRNAs)-Disease Association Prediction Model”.
+Earlier in his career, Hanqing conducted his undergraduate thesis research in Professor Wen Zhang's lab at the School of Computer Science, Wuhan University, [Professor Zhang](http://zhangwenlab.cn/indexen.html#student) is now affiliated with Huazhong Agricultural University. Hanqing’s work focused on applying CNN(Convolutional Neural Network) to predict RNA-disease associations, culminating in his thesis titled “Deep Learning Network Based Long-non-coding RNAs (LncRNAs)-Disease Association Prediction Model”.
 
 You can find Hanqing’s CV here: [Hanqing Xu’s Curriculum Vitae](../assets/ Curriculum_Vitae.pdf)
 [Product Handbook of TS-V5001](../assets/TS-V5001.pdf)
