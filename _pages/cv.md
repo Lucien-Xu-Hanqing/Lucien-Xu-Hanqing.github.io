@@ -11,27 +11,18 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* B.S. in College of Life Scienced, WuHan University, 2015-2019
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* March 2023 - September 2024: Product Manager
+  * Chongqing Tansheng Diagnostics Co., Ltd.
+  * Duties includes: construction of the training data set, problem analysis and improvement of the model performance of the AI microscopic examination analyzer(TS-V5001)
   
+* March 2020 - November 2020: Assistant Editor/ Section Editor
+  * MDPI（Multidisciplinary Digital Publishing Institute)
+  * Duties includes: manuscript handling, peer review, paper publication and academic conferences for journal "Sensors" and its'section "Fault Diagnosis & Sensors"
+
 Skills
 ======
 * Skill 1
