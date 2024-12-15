@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About Hanqing Xu"
 author_profile: true
 redirect_from: 
   - /about/
@@ -17,7 +17,7 @@ For more details about this project, you can refer to his article:
 Earlier in his career, Hanqing conducted his undergraduate thesis research in Professor Wen Zhang's lab at the School of Computer Science, Wuhan University, [Professor Zhang] (http://zhangwenlab.cn/indexen.html#student) is now affiliated with Huazhong Agricultural University. Hanqing’s work focused on applying CNN(Convolutional Neural Network) to predict RNA-disease associations, culminating in his thesis titled “Deep Learning Network Based Long-non-coding RNAs (LncRNAs)-Disease Association Prediction Model”.
 
 You can find Hanqing’s CV here: [Hanqing Xu’s Curriculum Vitae](../assets/ Curriculum_Vitae.pdf)
-[Product Handbook of TS-V5001] (../assets/TS-V5001.pdf)
+[Product Handbook of TS-V5001](../assets/TS-V5001.pdf)
 [Email](hq2015@whu.edu.cn) [Github]( https://github.com/Lucien-Xu-Hanqing)[Wechat](../images/wechat.jpg)
 [Xiaohongshu]( https://www.xiaohongshu.com/user/profile/622a9d0d000000001000c86a?xhsshare=CopyLink&appuid=622a9d0d000000001000c86a&apptime=1733974421&share_id=50a7305dfa2847cbbbe2ac46c3c819fe)
 
