@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hanqing Xu is an innovative practitioner dedicated to integrating cutting-edge AI technologies with real-world applications. From 2023 to 2024, he worked as a Product Manager at Chongqing Tansheng Diagnostics. Prior to that, he served as an Academic Editor at MDPI, managing manuscript processing for the journal [Sensors](https://www.mdpi.com/journal/sensors) and its section [Fault Diagnosis & Sensors](https://www.mdpi.com/journal/sensors/sections/fault).  His research interest includes machine learning, deep learning, computer vision and biomedical appliance.
+Hanqing Xu is an innovative practitioner dedicated to integrating cutting-edge AI technologies with real-world applications. From 2023 to 2024, he worked as a Product Manager at Chongqing Biomean(Tansheng) Diagnostics. Prior to that, he served as an Academic Editor at MDPI, managing manuscript processing for the journal [Sensors](https://www.mdpi.com/journal/sensors) and its section [Fault Diagnosis & Sensors](https://www.mdpi.com/journal/sensors/sections/fault).  His research interest includes machine learning, deep learning, computer vision and biomedical appliance.
 
 One of his notable achievements is leading the development of the TS-V5001, a groundbreaking AI-powered fully automated microscopy analyzer for the Chinese pet diagnostics market. Distinguished by its highly integrated mechanical processing system, sophisticated microfluidic reagent card, and intelligent diagnostic capabilities, this instrument represents a revolutionary leap in its field. 
 
